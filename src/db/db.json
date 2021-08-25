@@ -1,0 +1,17 @@
+{
+  "goal": {
+    "amount": "1000"
+  },
+  "values": [
+    {
+      "amount": "500",
+      "type": "income",
+      "id": 1
+    },
+    {
+      "amount": "100",
+      "type": "expensive",
+      "id": 2
+    }
+  ]
+}

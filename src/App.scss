@@ -1,0 +1,27 @@
+.app {
+  align-items: center;
+  background-color: #282c34;
+  color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  width: 100%;
+}
+
+.input-form {
+  font-size: 35px;
+  height: 60px;
+  width: 100%;
+}
+
+.button-form {
+  cursor: pointer;
+  height: 66px;
+  width: 80px;
+}
+
+.form {
+  display: flex;
+}
